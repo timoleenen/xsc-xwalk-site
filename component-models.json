@@ -350,21 +350,14 @@
     "fields": [
       {
         "component": "text",
-        "name": "firstName",
+        "name": "profile_name",
         "value": "",
-        "label": "First name",
+        "label": "Name",
         "valueType": "string"
       },
       {
         "component": "text",
-        "name": "lastName",
-        "value": "",
-        "label": "Last name",
-        "valueType": "string"
-      },
-      {
-        "component": "text",
-        "name": "title",
+        "name": "profile_title",
         "value": "",
         "label": "Title",
         "valueType": "string"
