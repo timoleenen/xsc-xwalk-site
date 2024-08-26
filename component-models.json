@@ -344,5 +344,52 @@
         "valueType": "string"
       }
     ]
+  },
+  {
+    "id": "profilecard",
+    "fields": [
+      {
+        "component": "text",
+        "name": "profile_name",
+        "value": "",
+        "label": "Name",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "profile_title",
+        "value": "",
+        "label": "Title",
+        "valueType": "string"
+      },
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Image",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "name": "socialMedia_fb",
+        "value": "",
+        "label": "Facebook",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "socialMedia_x",
+        "value": "",
+        "label": "X",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "socialMedia_ig",
+        "value": "",
+        "label": "Instagram",
+        "valueType": "string"
+      }
+    ]
   }
 ]
