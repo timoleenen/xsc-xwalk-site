@@ -126,6 +126,20 @@
         "name": "rows",
         "value": "",
         "label": "Rows"
+      },
+      {
+        "component": "select",
+        "name": "classes",
+        "value": "",
+        "label": "Content Type",
+        "description": "How to render content",
+        "valueType": "string",
+        "options": [
+          {
+            "name": "Profile cards",
+            "value": "--profilecards"
+          }
+        ]
       }
     ]
   },
