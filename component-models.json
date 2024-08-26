@@ -137,7 +137,7 @@
         "options": [
           {
             "name": "Profile cards",
-            "value": "--profilecards"
+            "value": "columns--profilecards"
           }
         ]
       }
