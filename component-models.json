@@ -126,20 +126,6 @@
         "name": "rows",
         "value": "",
         "label": "Rows"
-      },
-      {
-        "component": "select",
-        "name": "classes",
-        "value": "",
-        "label": "Content Type",
-        "description": "How to render content",
-        "valueType": "string",
-        "options": [
-          {
-            "name": "Profile cards",
-            "value": "columns--profilecards"
-          }
-        ]
       }
     ]
   },
@@ -356,6 +342,39 @@
         "value": "",
         "label": "Text",
         "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "profiles-section",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "number",
+        "name": "columns",
+        "value": "",
+        "label": "Columns"
+      },
+      {
+        "component": "text",
+        "valueType": "number",
+        "name": "rows",
+        "value": "",
+        "label": "Rows"
+      },
+      {
+        "component": "select",
+        "name": "classes",
+        "value": "",
+        "label": "Content Type",
+        "description": "How to render content",
+        "valueType": "string",
+        "options": [
+          {
+            "name": "Profile cards",
+            "value": "columns--profilecards"
+          }
+        ]
       }
     ]
   },
