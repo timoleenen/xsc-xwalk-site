@@ -3,7 +3,8 @@
       "id": "main",
       "components": [
         "section",
-        "tab"
+        "tab",
+        "profile-details"
       ]
     },
     {
