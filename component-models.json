@@ -346,18 +346,6 @@
     ]
   },
   {
-    "id": "profile-details",
-    "fields": [
-      {
-        "component": "text",
-        "name": "style",
-        "value": "",
-        "label": "Style",
-        "valueType": "string"
-      }
-    ]
-  },
-  {
     "id": "profile-detail",
     "fields": [
       {
