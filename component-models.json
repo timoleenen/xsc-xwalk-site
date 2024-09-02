@@ -346,7 +346,7 @@
     ]
   },
   {
-    "id": "profiles-section",
+    "id": "profile-details",
     "fields": [
       {
         "component": "text",
@@ -358,7 +358,7 @@
     ]
   },
   {
-    "id": "profilecard",
+    "id": "profile-detail",
     "fields": [
       {
         "component": "text",

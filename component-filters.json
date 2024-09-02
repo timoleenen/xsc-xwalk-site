@@ -44,9 +44,9 @@
       ]
     },
     {
-      "id": "profiles-section",
+      "id": "profile-details",
       "components": [
-        "profilecard"
+        "profile-detail"
       ]
     },
     {
