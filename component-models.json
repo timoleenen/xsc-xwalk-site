@@ -350,31 +350,10 @@
     "fields": [
       {
         "component": "text",
-        "valueType": "number",
-        "name": "columns",
+        "name": "style",
         "value": "",
-        "label": "Columns"
-      },
-      {
-        "component": "text",
-        "valueType": "number",
-        "name": "rows",
-        "value": "",
-        "label": "Rows"
-      },
-      {
-        "component": "select",
-        "name": "classes",
-        "value": "",
-        "label": "Content Type",
-        "description": "How to render content",
-        "valueType": "string",
-        "options": [
-          {
-            "name": "Profile cards",
-            "value": "columns--profilecards"
-          }
-        ]
+        "label": "Style",
+        "valueType": "string"
       }
     ]
   },
