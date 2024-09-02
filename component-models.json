@@ -346,6 +346,25 @@
     ]
   },
   {
+    "id": "profile-details",
+    "fields": [
+      {
+        "component": "multiselect",
+        "valueType": "string",
+        "name": "classes",
+        "value": "",
+        "label": "Block Options",
+        "options": [
+          {
+            "name": "No Border",
+            "value": "no-border"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
     "id": "profile-detail",
     "fields": [
       {
@@ -365,30 +384,9 @@
       {
         "component": "reference",
         "valueType": "string",
-        "name": "image",
+        "name": "profile_image",
         "label": "Image",
         "multi": false
-      },
-      {
-        "component": "text",
-        "name": "socialMedia_fb",
-        "value": "",
-        "label": "Facebook",
-        "valueType": "string"
-      },
-      {
-        "component": "text",
-        "name": "socialMedia_x",
-        "value": "",
-        "label": "X",
-        "valueType": "string"
-      },
-      {
-        "component": "text",
-        "name": "socialMedia_ig",
-        "value": "",
-        "label": "Instagram",
-        "valueType": "string"
       }
     ]
   }
